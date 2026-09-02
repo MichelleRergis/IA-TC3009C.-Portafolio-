@@ -1,0 +1,7 @@
+type,carnivorous,herbivorous,omnivorous
+armoured dinosaur,0,29,0
+ceratopsian,0,24,0
+euornithopod,0,53,0
+large theropod,50,1,7
+sauropod,0,60,5
+small theropod,42,1,14

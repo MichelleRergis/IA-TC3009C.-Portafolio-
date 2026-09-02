@@ -1,0 +1,6 @@
+clase,precision,recall,f1,support
+carnivorous,0.8095,0.9444,0.8718,18
+herbivorous,1.0,0.9706,0.9851,34
+omnivorous,0.6667,0.4,0.5,5
+macro avg,0.8254,0.7717,0.7856,57
+weighted avg,0.9106,0.9123,0.9068,57
